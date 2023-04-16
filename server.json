@@ -3,7 +3,7 @@
         {
             "id": 1,
             "description": "Desenvolvimento de site",
-            "type": "incoming",
+            "type": "income",
             "category": "Venda",
             "price": 14000,
             "createAt": "2023-04-14T20:02:37.347Z"
@@ -11,10 +11,18 @@
         {
             "id": 2,
             "description": "Hamburguer",
-            "type": "outcoming",
+            "type": "outcome",
             "category": "Alimentação",
             "price": 50,
             "createAt": "2023-04-14T23:50:37.347Z"
+        },
+        {
+            "id": 3,
+            "description": "Ignite Rocketseat",
+            "type": "outcome",
+            "category": "Educação",
+            "price": 1980,
+            "createAt": "2023-04-16T23:50:37.347Z"
         }
     ]
 }
